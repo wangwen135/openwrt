@@ -1,3 +1,10 @@
+IP：192.168.31.5
+
+
+
+# ===============================================
+--
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
